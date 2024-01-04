@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 justinhandley/react-native-track-player is built on the following main stack:
+
 - [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - [Gradle](https://www.gradle.org/) – Java Build Tools
 - [Ruby](https://www.ruby-lang.org) – Languages
@@ -26,11 +27,13 @@ justinhandley/react-native-track-player is built on the following main stack:
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 justinhandley/react-native-track-player is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/975/gradlephant-social-black-bg.png' alt='Gradle'/> [Gradle](https://www.gradle.org/) – Java Build Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
@@ -55,14 +58,15 @@ justinhandley/react-native-track-player is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [justinhandley/react-native-track-player](https://github.com/justinhandley/react-native-track-player)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|51<br/>Tools used|11/09/23 <br/>Report generated|
+|52<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -307,9 +311,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (24)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (25)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (23)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (24)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -330,6 +334,7 @@ Full tech stack [here](/techstack.md)
 |[cpx](https://www.npmjs.com/cpx)|v1.5.0|04/08/18|David Chavez |MIT|N/A|
 |[cz-conventional-changelog](https://www.npmjs.com/cz-conventional-changelog)|v3.3.0|09/22/22|Jacob Spizziri |MIT|N/A|
 |[eslint-plugin-react-hooks](https://www.npmjs.com/eslint-plugin-react-hooks)|v4.6.0|08/07/23|David Chavez |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v8.0.2|09/23/22|David Chavez |MIT|N/A|
 |[metro-react-native-babel-preset](https://www.npmjs.com/metro-react-native-babel-preset)|v0.66.2|08/07/23|David Chavez |MIT|N/A|
 |[react-dom](https://www.npmjs.com/react-dom)|v17.0.2|04/23/22|Jacob Spizziri |MIT|N/A|
 |[react-native](https://www.npmjs.com/react-native)|v0.71.12|08/07/23|David Chavez |MIT|N/A|
@@ -347,4 +352,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
