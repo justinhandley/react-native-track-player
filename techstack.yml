@@ -1,11 +1,12 @@
 repo_name: justinhandley/react-native-track-player
 report_id: 9da95acdec856de5ffa9681b7e6a8d58
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T15:34:50+00:00'
+timestamp: '2024-01-04T14:57:05+00:00'
 requested_by: dcvz
 provider: github
 branch: main
-detected_tools_count: 51
+detected_tools_count: 52
 tools:
 - name: C lang
   description: One of the most widely used programming languages of all time
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/justinhandley/react-native-track-player
   detection_source: Repo Metadata
 - name: C++
   description: Has imperative, object-oriented and generic programming features, while
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/justinhandley/react-native-track-player
   detection_source: Repo Metadata
 - name: Java
   description: A concurrent, class-based, object-oriented, language specifically designed
@@ -35,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/justinhandley/react-native-track-player
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -45,6 +49,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/justinhandley/react-native-track-player
   detection_source: Repo Metadata
 - name: Kotlin
   description: Statically typed Programming Language targeting JVM and JavaScript
@@ -54,6 +59,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/3750/pCfEzr6L.png
+  detection_source_url: https://github.com/justinhandley/react-native-track-player
   detection_source: Repo Metadata
 - name: Objective-C
   description: The primary programming language you use when writing software for
@@ -64,6 +70,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1008/xcode.png
+  detection_source_url: https://github.com/justinhandley/react-native-track-player
   detection_source: Repo Metadata
 - name: Ruby
   description: A dynamic, interpreted, open source programming language with a focus
@@ -74,6 +81,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/justinhandley/react-native-track-player
   detection_source: Repo Metadata
 - name: Swift
   description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
@@ -84,6 +92,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source_url: https://github.com/justinhandley/react-native-track-player
   detection_source: Repo Metadata
 - name: TypeScript
   description: A superset of JavaScript that compiles to clean JavaScript output
@@ -94,6 +103,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/justinhandley/react-native-track-player
   detection_source: Repo Metadata
 - name: Android SDK
   description: An SDK that provides you the API libraries and developer tools necessary
@@ -104,6 +114,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png
+  detection_source_url: https://github.com/justinhandley/react-native-track-player/blob/main/example/android/app/build.gradle
   detection_source: example/android/app/build.gradle
   last_updated_by: Jacob Spizziri
   last_updated_on: 2023-03-21 14:55:34.000000000 Z
@@ -117,8 +128,8 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
-  detection_source_url: docs/yarn.lock
-  detection_source: package.json
+  detection_source_url: https://github.com/justinhandley/react-native-track-player/blob/main/docs/yarn.lock
+  detection_source: docs/package.json
   last_updated_by: Jacob Spizziri
   last_updated_on: 2022-04-23 23:37:21.000000000 Z
 - name: React Native
@@ -131,8 +142,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Cross-Platform Mobile Development
   image_url: https://img.stackshare.io/service/2699/KoK6gHzp.jpg
-  detection_source_url: example/yarn.lock
-  detection_source: package.json
+  detection_source_url: https://github.com/justinhandley/react-native-track-player/blob/main/example/yarn.lock
+  detection_source: example/package.json
   last_updated_by: David Chavez
   last_updated_on: 2023-08-07 21:37:10.000000000 Z
 - name: Babel
@@ -145,8 +156,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: JavaScript Compilers
   image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
-  detection_source_url: docs/yarn.lock
-  detection_source: example/package.json
+  detection_source_url: https://github.com/justinhandley/react-native-track-player/blob/main/docs/yarn.lock
+  detection_source: docs/babel.config.js
   last_updated_by: Jacob Spizziri
   last_updated_on: 2022-04-23 23:37:21.000000000 Z
 - name: ESLint
@@ -158,7 +169,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
-  detection_source: package.json
+  detection_source_url: https://github.com/justinhandley/react-native-track-player/blob/main/example/package.json
+  detection_source: example/package.json
   last_updated_by: David Chavez
   last_updated_on: 2018-04-08 15:34:06.000000000 Z
 - name: Git
@@ -169,6 +181,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/justinhandley/react-native-track-player
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -178,7 +191,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
-  detection_source: ".github/workflows/test-docs-deploy.yml"
+  detection_source_url: https://github.com/justinhandley/react-native-track-player/blob/main/.github/workflows/docs-deploy.yml
+  detection_source: ".github/workflows/docs-deploy.yml"
   last_updated_by: Jacob Spizziri
   last_updated_on: 2022-04-23 23:37:21.000000000 Z
 - name: Gradle
@@ -190,7 +204,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Java Build Tools
   image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
-  detection_source: example/android/gradlew.bat
+  detection_source_url: https://github.com/justinhandley/react-native-track-player/blob/main/android/build.gradle
+  detection_source: android/build.gradle
   last_updated_by: Jonathan Puckey
   last_updated_on: 2023-03-28 11:08:45.000000000 Z
 - name: Jest
@@ -203,7 +218,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/830/jest.png
-  detection_source_url: example/yarn.lock
+  detection_source_url: https://github.com/justinhandley/react-native-track-player/blob/main/example/yarn.lock
   detection_source: example/package.json
   last_updated_by: David Chavez
   last_updated_on: 2018-04-08 15:34:06.000000000 Z
@@ -217,8 +232,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
-  detection_source_url: example/yarn.lock
-  detection_source: package.json
+  detection_source_url: https://github.com/justinhandley/react-native-track-player/blob/main/example/yarn.lock
+  detection_source: example/package.json
   last_updated_by: David Chavez
   last_updated_on: 2023-08-07 15:48:47.000000000 Z
 - name: RubyGems
@@ -229,6 +244,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/justinhandley/react-native-track-player/blob/main/example/ios/Gemfile
   detection_source: example/ios/Gemfile
   last_updated_by: David Chavez
   last_updated_on: 2023-02-06 17:00:50.000000000 Z
@@ -241,6 +257,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/justinhandley/react-native-track-player/blob/main/example/windows/example.sln
   detection_source: example/windows/example.sln
   last_updated_by: David Chavez
   last_updated_on: 2021-07-11 20:01:49.000000000 Z
@@ -252,7 +269,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
-  detection_source: yarn.lock
+  detection_source_url: https://github.com/justinhandley/react-native-track-player/blob/main/docs/yarn.lock
+  detection_source: docs/yarn.lock
   last_updated_by: Jacob Spizziri
   last_updated_on: 2022-04-23 23:37:21.000000000 Z
 - name: npm
@@ -263,6 +281,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/justinhandley/react-native-track-player/blob/main/package.json
   detection_source: package.json
   last_updated_by: Guichaguri
   last_updated_on: 2017-03-16 20:28:43.000000000 Z
@@ -274,6 +293,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Operating Systems
   image_url: https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg
+  detection_source_url: https://github.com/justinhandley/react-native-track-player/blob/main/example/android/app/build.gradle
   detection_source: example/android/app/build.gradle
   last_updated_by: Jacob Spizziri
   last_updated_on: 2023-03-21 14:55:34.000000000 Z
@@ -286,7 +306,7 @@ tools:
   category: Libraries
   sub_category: CocoaPods Packages
   image_url: https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png
-  detection_source_url: example/ios/Gemfile.lock
+  detection_source_url: https://github.com/justinhandley/react-native-track-player/blob/main/example/ios/Gemfile.lock
   detection_source: example/ios/Gemfile
   last_updated_by: Jacob Spizziri
   last_updated_on: 2023-06-01 10:41:15.000000000 Z
@@ -299,12 +319,14 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/justinhandley/react-native-track-player
   detection_source: Repo Metadata
 - name: husky
   website_url: https://github.com/typicode/husky
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/9527/5502029.jpeg
+  detection_source_url: https://github.com/justinhandley/react-native-track-player/blob/main/package.json
   detection_source: package.json
   last_updated_by: David Chavez
   last_updated_on: 2022-09-23 19:20:24.000000000 Z
@@ -318,7 +340,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15810/default_004658cda9b38934f2871435e9dc15608c86e8be.png
-  detection_source_url: docs/yarn.lock
+  detection_source_url: https://github.com/justinhandley/react-native-track-player/blob/main/docs/yarn.lock
   detection_source: example/package.json
   last_updated_by: Jacob Spizziri
   last_updated_on: 2023-06-01 10:41:15.000000000 Z
@@ -332,7 +354,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15819/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
-  detection_source_url: docs/yarn.lock
+  detection_source_url: https://github.com/justinhandley/react-native-track-player/blob/main/docs/yarn.lock
   detection_source: example/package.json
   last_updated_by: Jacob Spizziri
   last_updated_on: 2023-06-01 10:41:15.000000000 Z
@@ -346,7 +368,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15934/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
-  detection_source_url: docs/yarn.lock
+  detection_source_url: https://github.com/justinhandley/react-native-track-player/blob/main/docs/yarn.lock
   detection_source: example/package.json
   last_updated_by: Jacob Spizziri
   last_updated_on: 2023-06-01 10:41:15.000000000 Z
@@ -360,7 +382,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17624/default_61a119a7701a0e8224ca0e4dce7ff951cd67972f.png
-  detection_source_url: docs/yarn.lock
+  detection_source_url: https://github.com/justinhandley/react-native-track-player/blob/main/docs/yarn.lock
   detection_source: docs/package.json
   last_updated_by: Jacob Spizziri
   last_updated_on: 2022-04-23 23:37:21.000000000 Z
@@ -374,7 +396,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18225/default_88b0d2e50daafd07d82e1afc6ee8f1b97181a07d.png
-  detection_source_url: example/yarn.lock
+  detection_source_url: https://github.com/justinhandley/react-native-track-player/blob/main/example/yarn.lock
   detection_source: example/package.json
   last_updated_by: David Chavez
   last_updated_on: 2023-08-07 21:37:10.000000000 Z
@@ -388,7 +410,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15840/default_004658cda9b38934f2871435e9dc15608c86e8be.png
-  detection_source_url: example/yarn.lock
+  detection_source_url: https://github.com/justinhandley/react-native-track-player/blob/main/example/yarn.lock
   detection_source: example/package.json
   last_updated_by: Jacob Spizziri
   last_updated_on: 2023-03-21 14:55:34.000000000 Z
@@ -402,8 +424,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15894/default_1d65e37e65b7f80761374f0202776043277d505d.png
-  detection_source_url: docs/yarn.lock
-  detection_source: package.json
+  detection_source_url: https://github.com/justinhandley/react-native-track-player/blob/main/docs/yarn.lock
+  detection_source: example/package.json
   last_updated_by: David Chavez
   last_updated_on: 2023-08-07 21:37:10.000000000 Z
 - name: "@types/react-native"
@@ -416,8 +438,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16569/default_682ffbfa52bb1873b212151cffed5d464d6efdfb.png
-  detection_source_url: example/yarn.lock
-  detection_source: package.json
+  detection_source_url: https://github.com/justinhandley/react-native-track-player/blob/main/example/yarn.lock
+  detection_source: example/package.json
   last_updated_by: David Chavez
   last_updated_on: 2023-08-07 21:37:10.000000000 Z
 - name: "@types/react-test-renderer"
@@ -430,7 +452,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16593/default_ebd83b4f0415be108d977ea72558b13fd7c5283d.png
-  detection_source_url: example/yarn.lock
+  detection_source_url: https://github.com/justinhandley/react-native-track-player/blob/main/example/yarn.lock
   detection_source: example/package.json
   last_updated_by: David Chavez
   last_updated_on: 2023-08-08 20:10:30.000000000 Z
@@ -444,8 +466,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: example/yarn.lock
-  detection_source: package.json
+  detection_source_url: https://github.com/justinhandley/react-native-track-player/blob/main/example/yarn.lock
+  detection_source: example/package.json
   last_updated_by: Jonathan Puckey
   last_updated_on: 2023-07-04 08:01:25.000000000 Z
 - name: "@typescript-eslint/parser"
@@ -458,8 +480,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
-  detection_source_url: example/yarn.lock
-  detection_source: package.json
+  detection_source_url: https://github.com/justinhandley/react-native-track-player/blob/main/example/yarn.lock
+  detection_source: example/package.json
   last_updated_by: Jonathan Puckey
   last_updated_on: 2023-07-04 08:01:25.000000000 Z
 - name: babel-jest
@@ -472,7 +494,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15839/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
-  detection_source_url: example/yarn.lock
+  detection_source_url: https://github.com/justinhandley/react-native-track-player/blob/main/example/yarn.lock
   detection_source: example/package.json
   last_updated_by: Jacob Spizziri
   last_updated_on: 2023-06-01 10:41:15.000000000 Z
@@ -486,7 +508,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16171/default_2c2f2c7b016f84c0fad2576cb986cb14a5dbbc2f.png
-  detection_source_url: example/yarn.lock
+  detection_source_url: https://github.com/justinhandley/react-native-track-player/blob/main/example/yarn.lock
   detection_source: example/package.json
   last_updated_by: David Chavez
   last_updated_on: 2023-08-07 15:48:47.000000000 Z
@@ -500,7 +522,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16260/default_9924e5da1d50ea01e52b48e4fae4b1347af5e4ff.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/justinhandley/react-native-track-player/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: Jacob Spizziri
   last_updated_on: 2022-09-22 22:07:34.000000000 Z
@@ -514,7 +536,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16454/default_aa91da3cee4d961f0eea8ca5de77f399ec7ec794.png
-  detection_source_url: example/yarn.lock
+  detection_source_url: https://github.com/justinhandley/react-native-track-player/blob/main/example/yarn.lock
   detection_source: example/package.json
   last_updated_by: David Chavez
   last_updated_on: 2018-04-08 15:34:06.000000000 Z
@@ -528,7 +550,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15961/default_cbd6c289400672b291755183817e9dd6abe1a612.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/justinhandley/react-native-track-player/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: Jacob Spizziri
   last_updated_on: 2022-09-22 22:07:34.000000000 Z
@@ -542,10 +564,24 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16149/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
-  detection_source_url: example/yarn.lock
-  detection_source: package.json
+  detection_source_url: https://github.com/justinhandley/react-native-track-player/blob/main/example/yarn.lock
+  detection_source: example/package.json
   last_updated_by: David Chavez
   last_updated_on: 2023-08-07 21:37:10.000000000 Z
+- name: husky
+  description: Prevents bad commit or push
+  package_url: https://www.npmjs.com/husky
+  version: 8.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15831/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/justinhandley/react-native-track-player/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: David Chavez
+  last_updated_on: 2022-09-23 19:20:24.000000000 Z
 - name: metro-react-native-babel-preset
   description: Babel preset for React Native applications
   package_url: https://www.npmjs.com/metro-react-native-babel-preset
@@ -556,7 +592,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16699/default_5ea3918e441555ef1fd413f4100fe15fe23b366f.png
-  detection_source_url: example/yarn.lock
+  detection_source_url: https://github.com/justinhandley/react-native-track-player/blob/main/example/yarn.lock
   detection_source: example/package.json
   last_updated_by: David Chavez
   last_updated_on: 2023-08-07 21:37:10.000000000 Z
@@ -570,7 +606,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: docs/yarn.lock
+  detection_source_url: https://github.com/justinhandley/react-native-track-player/blob/main/docs/yarn.lock
   detection_source: docs/package.json
   last_updated_by: Jacob Spizziri
   last_updated_on: 2022-04-23 23:37:21.000000000 Z
@@ -584,8 +620,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16064/default_5a461d436012a0c4024534aaba303dcdb0297d24.png
-  detection_source_url: example/yarn.lock
-  detection_source: package.json
+  detection_source_url: https://github.com/justinhandley/react-native-track-player/blob/main/example/yarn.lock
+  detection_source: example/package.json
   last_updated_by: David Chavez
   last_updated_on: 2023-08-07 21:37:10.000000000 Z
 - name: react-native-vector-icons
@@ -598,7 +634,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17141/default_0ffbf6d9ee2940fe94be8424fd9afff068fff458.png
-  detection_source_url: example/yarn.lock
+  detection_source_url: https://github.com/justinhandley/react-native-track-player/blob/main/example/yarn.lock
   detection_source: example/package.json
   last_updated_by: David Chavez
   last_updated_on: 2023-08-07 21:37:10.000000000 Z
@@ -612,7 +648,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15929/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
-  detection_source_url: example/yarn.lock
+  detection_source_url: https://github.com/justinhandley/react-native-track-player/blob/main/example/yarn.lock
   detection_source: example/package.json
   last_updated_by: David Chavez
   last_updated_on: 2023-08-08 20:10:30.000000000 Z
@@ -626,8 +662,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15807/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
-  detection_source_url: docs/yarn.lock
-  detection_source: package.json
+  detection_source_url: https://github.com/justinhandley/react-native-track-player/blob/main/docs/yarn.lock
+  detection_source: example/package.json
   last_updated_by: David Chavez
   last_updated_on: 2021-08-11 13:13:41.000000000 Z
 - name: cocoapods
@@ -640,7 +676,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19189/default_2266a6c0e2693d55b1999a7c5db4be13e5720232.png
-  detection_source_url: example/ios/Gemfile.lock
+  detection_source_url: https://github.com/justinhandley/react-native-track-player/blob/main/example/ios/Gemfile.lock
   detection_source: example/ios/Gemfile
   last_updated_by: Jacob Spizziri
   last_updated_on: 2023-06-01 10:41:15.000000000 Z
